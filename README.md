@@ -1,8 +1,8 @@
-<center>
-    <img src="https://asad310397.github.io/img/asad_profile2.jpg" alt="Profile Picture" width="200"/>
-    <br/>Asad Siddiqui
-    <br/>Software Developer
-</center>
+<img src="https://asad310397.github.io/img/asad_profile2.jpg" alt="Profile Picture" width="200"/>
+
+Asad Siddiqui
+
+Software Developer
 
 ---
 Full Stack developer with 3+ years of experience in ReactJs and NodeJs, with a Bachelor of Computing from University of Guelph. As well as over 2+ years experience in a leadership role, leading teams in multiple Agile software development projects. Looking to leverage my knowledge and skills in a new environment.
