@@ -1,26 +1,46 @@
-### Hello World 👋
+<center>
+    <img src="https://asad310397.github.io/img/asad_profile2.jpg" alt="Profile Picture" width="200"/>
+    <br/>Asad Siddiqui
+    <br/>Software Developer
+</center>
+
 ---
-My name is Asad Siddiqui (he/him). I am a Software Developer out of Ontario, Canada
+Full Stack developer with 3+ years of experience in ReactJs and NodeJs, with a Bachelor of Computing from University of Guelph. As well as over 2+ years experience in a leadership role, leading teams in multiple Agile software development projects. Looking to leverage my knowledge and skills in a new environment.
 
-# Langauges
-| Langauge | Years of Practice |
-| --- | --- |
-| C | 9 |
-| Python | 9 |
-| Java | 8 |
-| MySQL | 8 |
-| HTML, CSS, and JS | 6 |
-| C++, C# | 2 |
-| Processing | 2 |
+---
+## Work Experience
+| | | |
+| :--- | :---: | --- |
+| Company | Title | Employment Term |
+| Zebra Robotics Inc. | Staff Software Developer | Apr 2024 - Feb 2025 |
+| Zebra Robotics Inc. | Senior Software Developer Team Lead | Jun 2022 - Apr 2024 |
+| Zebra Robotics Inc. | Jr. Software Developer | Jun 2021 - Jun 2022 |
+| Zebra Robotics Inc. | Instructor | May 2018 - Feb 2025 |
+| Zebra Robotics Inc. | Branch Manager | Jan 2019 - Jun 2020 |
 
-# Frameworks and Tools
-| Frameworks/Tools | Years of Practice |
-| --- | --- |
-| ReactJs | 6 |
-| NodeJs | 6 |
-| AWS | 5 |
-| Angular | 2 |
+## Project Showcase
+| |
+| :--- |
+| Website |
+| [Zebra Robotics Customer Facing Website](https://zebrarobotics.com/mississauga) |
+| [Zebra Robotics Internal Staff Website](https://portal.zebrarobotics.com) |
+| [STRIPE Competition Website](https://www.stripecompetition.com/) |
+| [Qamer Supplies Website](https://qamersupplies.com/) |
 
+
+### Languages, Frameworks and Tools
+| |
+| :--- |
+| |
+| React & Redux (since 2021) |
+| HTML, CSS, and JS (since 2018) |
+| NodeJs & Express (since 2021) |
+| MySQL (since 2021) |
+| TypeScript (since 2021) |
+| AngularJS (since 2016) |
+| Python (since 2015) |
+| C (since 2015) |
+| Java (since 2016) |
 
 # Contact
 See my website [here](https://asad310397.github.io/)
