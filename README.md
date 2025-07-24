@@ -1,4 +1,4 @@
-<img src="https://asad310397.github.io/img/asad_profile2.jpg" alt="Profile Picture" width="200"/>
+<img src="https://github.com/user-attachments/assets/dcca1f90-abcf-4d2c-b4d9-d2c09e3873f9" alt="Profile Picture" width="200"/>
 
 Asad Siddiqui
 
