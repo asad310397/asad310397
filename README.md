@@ -12,6 +12,7 @@ Full Stack developer with 3+ years of experience in ReactJs and NodeJs, with a B
 | | | |
 | :--- | :---: | --- |
 | Company | Title | Employment Term |
+| Sesimi | Software Engineer | Sept 2025 - Present
 | Zebra Robotics Inc. | Staff Software Developer | Apr 2024 - Feb 2025 |
 | Zebra Robotics Inc. | Senior Software Developer Team Lead | Jun 2022 - Apr 2024 |
 | Zebra Robotics Inc. | Jr. Software Developer | Jun 2021 - Jun 2022 |
@@ -31,7 +32,6 @@ Full Stack developer with 3+ years of experience in ReactJs and NodeJs, with a B
 ### Languages, Frameworks and Tools
 | |
 | :--- |
-| |
 | React & Redux (since 2021) |
 | HTML, CSS, and JS (since 2018) |
 | NodeJs & Express (since 2021) |
